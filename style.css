@@ -1,0 +1,17 @@
+img {
+  height:200px;
+}
+
+ol {
+  list-style-type:none;
+  overflow: hidden;
+}
+
+li {
+  display: inline;
+  overflow: hidden;
+}
+
+.question {
+  margin: 2em
+}
